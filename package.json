@@ -1,0 +1,22 @@
+{
+  "name": "dsprsn-websockets",
+  "description": "websocket adapters for dsprsn",
+  "version": "0.0.1",
+  "dependencies": {
+    "cookie":"latest",
+    "espr-util":"latest",
+    "dsprsn":"latest",
+    "sockjs":"latest"
+  },
+  "devDependencies": {
+    "coffee-script":"latest",
+    "mocha":"latest",
+    "chai":"latest",
+    "sinon":"latest",
+    "express":"latest",
+    "browserify":"latest",
+    "mocha-phantomjs":"latest"
+  },
+  "main": "index",
+  "engines": { "node": "*" }
+}
