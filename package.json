@@ -2,6 +2,10 @@
   "name": "dsprsn-websockets",
   "description": "websocket adapters for dsprsn",
   "version": "0.0.1",
+  "repository": "https://github.com/espr/dsprsn-websockets.git",
+  "scripts": {
+    "test": "./node_modules/.bin/cake test"
+  },
   "dependencies": {
     "cookie":"latest",
     "espr-util":"latest",

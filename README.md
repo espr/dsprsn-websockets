@@ -3,6 +3,8 @@ dsprsn-websockets
 
 websocket adapters for dsprsn
 
+[![Build Status](https://travis-ci.org/espr/dsprsn-websockets.png)](https://travis-ci.org/espr/dsprsn-websockets)
+
 license
 -------
 The MIT License (MIT)
